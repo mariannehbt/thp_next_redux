@@ -1,5 +1,5 @@
 import { BUY_PASTAS } from './pastasType';
-import { buyPastas } from './pastasActions';
+// import { buyPastas } from './pastasActions';
 
 const initialState = {
 	pastas: 4
